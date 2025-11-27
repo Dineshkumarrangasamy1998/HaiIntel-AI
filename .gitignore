@@ -1,0 +1,48 @@
+# Node
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# Vite / build
+dist/
+build/
+.vite/
+.cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.tgz
+.pnp.*
+
+# Temporary files
+*.swp
+*~
+
+# Optional: local env files
+local.env
+
+# Lockfiles: keep them in repo (don't ignore package-lock.json or yarn.lock)
