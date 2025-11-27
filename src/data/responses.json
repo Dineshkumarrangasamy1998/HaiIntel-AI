@@ -1,0 +1,22 @@
+[
+  {
+    "match": "pricing",
+    "answer": "HaiIntel provides data intelligence solutions focusing on observability, security analytics, and cost insights. Pricing varies by deployment and features — contact sales at HaiIntel.com for a tailored quote.",
+    "suggestions": ["Tell me about pricing", "Contact sales", "Deployment options"]
+  },
+  {
+    "match": "security",
+    "answer": "HaiIntel's platform helps detect threats and anomalies by correlating telemetry and using analytics pipelines. It supports integrations with common observability tools and log stores.",
+    "suggestions": ["How does detection work?", "Integrations"]
+  },
+  {
+    "match": "features",
+    "answer": "Key features include ingest pipelines, anomaly detection, customizable dashboards, and ML-assisted insights for faster investigation.",
+    "suggestions": ["Dashboards", "Anomaly detection"]
+  },
+  {
+    "match": "",
+    "answer": "HaiIntel Assistant: I can help with product features, integrations, and basic guidance. Try asking about pricing, security, or integrations.",
+    "suggestions": ["Pricing", "Security", "Integrations"]
+  }
+]
